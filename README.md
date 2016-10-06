@@ -1,5 +1,5 @@
 # OU-sim-app
-This repo contains the source code for a shiny app for demonstrating 2 regime OU process (phylogenetic comparitive methods schtuff). Intended as an educational tool only. 
+This repo contains the source code for a shiny app that demonstrates a 2 regime OU process (phylogenetic comparitive methods schtuff). Intended as an educational tool only. 
 
 [Try out the app here!](https://silastittes.shinyapps.io/OU-fitting/)
 
